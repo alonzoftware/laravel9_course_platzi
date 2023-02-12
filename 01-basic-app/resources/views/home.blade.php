@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+@extends('template')
+
+@section('content')
+
+<h1>Home</h1>
+
+@endsection
+
+
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -12,4 +21,4 @@
     <h1>Home</h1>
 </body>
 
-</html>
+</html> -->
